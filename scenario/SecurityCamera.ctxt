@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=newAngle1
+comment1.target=void\ setAngle1(int)
+comment2.params=newAngle2
+comment2.target=void\ setAngle2(int)
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+numComments=4

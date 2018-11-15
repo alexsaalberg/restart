@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=newLives\ newLevel\ newStars\ oldMusicPlayer
+comment0.target=LosingScreen(int,\ int,\ int,\ greenfoot.GreenfootSound)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=oldMusicPlayer\ newMusicPlayer
+comment2.target=boolean\ testOldMusic(greenfoot.GreenfootSound,\ greenfoot.GreenfootSound)
+comment2.text=\n\ Tests\ to\ see\ if\ the\ music\ from\ the\ old\ level\ is\ the\ same\ as\ the\ music\ from\ the\ new\ level.\n\ If\ the\ music\ are\ the\ same\ AND\ it\ is\ playing\ it\ will\ return\ true,\ meaning\ that\ the\ music\ shouldn't\ stop\ playing.\n\ If\ else\ it\ will\ return\ false,\ and\ the\ new\ music\ will\ start\ playing.\n
+numComments=3

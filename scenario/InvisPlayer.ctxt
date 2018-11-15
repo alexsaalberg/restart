@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=direction
+comment1.target=void\ directionMove(int)
+comment2.params=newSpeed
+comment2.target=void\ setSpeed(int)
+comment3.params=
+comment3.target=boolean\ outOfWorld()
+comment4.params=direction\ newX\ newY\ newRotation
+comment4.target=boolean\ checkCollision(int,\ int,\ int,\ int)
+numComments=5

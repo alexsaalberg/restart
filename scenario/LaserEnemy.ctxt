@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ drawLaser()
+comment2.params=
+comment2.target=boolean\ testLaser()
+comment3.params=newX1\ newY1\ newX2\ newY2
+comment3.target=LaserEnemy(int,\ int,\ int,\ int)
+comment4.params=world
+comment4.target=void\ addedToWorld(greenfoot.World)
+numComments=5
